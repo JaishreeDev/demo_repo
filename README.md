@@ -1,7 +1,5 @@
 # hello-world
 
-Hello World
+GIT HUB
 
-Hi All,
-
-I am Jaishree, I am a kind, friendly and cute girl who loves being happy, making new adventures, learning new stuffs and prefers being an all-rounder in extra curriculam and in my career!! :) :) 
+GitHub is a web-based Git or version control repository and Internet hosting service. It is mostly used for code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.
